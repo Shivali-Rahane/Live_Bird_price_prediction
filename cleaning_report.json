@@ -1,0 +1,28 @@
+{
+  "rows_raw": 5485,
+  "bad_dates_dropped": 0,
+  "missing_before": {
+    "live_bird_price": 54,
+    "feed_cost_index": 27
+  },
+  "duplicates_dropped": 20,
+  "gap_days_filled": {
+    "Ahmednagar": 1,
+    "Nashik": 1,
+    "Pune": 6,
+    "Satara": 3,
+    "Solapur": 4
+  },
+  "outliers_removed": {
+    "Ahmednagar": 1,
+    "Nashik": 1,
+    "Pune": 2,
+    "Satara": 1,
+    "Solapur": 3
+  },
+  "missing_after": {
+    "live_bird_price": 0,
+    "feed_cost_index": 0
+  },
+  "rows_clean": 5480
+}
